@@ -1,0 +1,1 @@
+- Refer to SortMeRNA documentation for details: https://github.com/sortmerna/sortmerna?tab=readme-ov-file#databases
